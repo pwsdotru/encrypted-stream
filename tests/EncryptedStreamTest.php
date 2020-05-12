@@ -3,7 +3,7 @@ namespace pwsdotru\EncryptedStream;
 
 use PHPUnit\Framework\TestCase;
 
-class RouterTest extends TestCase
+class EncryptedStreamTest extends TestCase
 {
     /**
      * @covers \pwsdotru\EncryptedStream\EncryptedStream::isWriteable
